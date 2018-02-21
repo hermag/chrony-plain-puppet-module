@@ -1,0 +1,1 @@
+# chrony-plain-puppet-module
