@@ -3,6 +3,7 @@ class chrony::config inherits chrony {
 
   file { "/etc/chrony.conf":
     ensure  => file,
+    notify  => Service['chronyd'],
     owner   => 'root',
     group   => 'root',
     mode    => '0644',

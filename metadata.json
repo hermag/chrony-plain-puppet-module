@@ -1,6 +1,6 @@
 {
   "name": "recogizer-chrony",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "author": "recogizer",
   "summary": "Module for populating the time server configuration files on clients.",
   "license": "Apache-2.0",
